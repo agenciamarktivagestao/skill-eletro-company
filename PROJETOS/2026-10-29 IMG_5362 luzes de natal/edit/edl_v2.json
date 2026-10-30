@@ -1,0 +1,172 @@
+{
+ "source": "../../../01 ENVIAR AQUI/IMG_5362.MOV",
+ "hdr": "auto",
+ "segments": [
+  {
+   "start": 0.08,
+   "end": 3.62,
+   "zoom": 1.132,
+   "anchor": [
+    477,
+    1072
+   ],
+   "_nota": "gancho",
+   "_face": [
+    462.0,
+    426.6,
+    228.0
+   ],
+   "_face_t": [
+    0.08,
+    3.62
+   ],
+   "level": "aberto",
+   "_frame": "auto"
+  },
+  {
+   "start": 3.62,
+   "end": 9.95,
+   "zoom": 1.247,
+   "anchor": [
+    536,
+    1015
+   ],
+   "_nota": "mostrando as luzes",
+   "_face": [
+    536.0,
+    429.6,
+    372.0
+   ],
+   "_face_t": [
+    3.62,
+    9.95
+   ],
+   "level": "medio",
+   "_frame": "auto"
+  },
+  {
+   "start": 9.95,
+   "end": 15.6,
+   "zoom": 1.136,
+   "anchor": [
+    477,
+    1075
+   ],
+   "_face": [
+    477.0,
+    432.5,
+    232.0
+   ],
+   "_face_t": [
+    9.95,
+    15.6
+   ],
+   "level": "aberto",
+   "_frame": "auto"
+  },
+  {
+   "start": 15.6,
+   "end": 22.05,
+   "zoom": 1.38,
+   "anchor": [
+    494,
+    955
+   ],
+   "_nota": "CTA",
+   "_face": [
+    494.0,
+    425.6,
+    228.0
+   ],
+   "_face_t": [
+    15.6,
+    22.05
+   ],
+   "level": "fechado",
+   "_frame": "auto"
+  }
+ ],
+ "hold": 2.6,
+ "zoom_ease": 0.5,
+ "captions": {
+  "style": "ELC",
+  "cy": 1060,
+  "hook_end": 3.55,
+  "hook_top": false,
+  "big": [
+   "imperdíveis"
+  ],
+  "accents": [
+   "decoração de natal",
+   "melhor preço",
+   "luzes de natal"
+  ],
+  "strikes": [
+   "última hora"
+  ],
+  "keywords": [],
+  "boxes": [],
+  "fix": {
+   "bil": "Bio"
+  },
+  "keep_case": [
+   "Eletro",
+   "Company",
+   "Londrina",
+   "Tiradentes",
+   "Bio",
+   "Natal"
+  ],
+  "words_file": "transcript.json",
+  "skip": []
+ },
+ "cards": [
+  {
+   "type": "flash",
+   "at": 3.773,
+   "dur": 0.45,
+   "sfx": "switch",
+   "_nota": "luz acendendo no 'Aqui na Eletro Company'"
+  },
+  {
+   "type": "product",
+   "at": 4.973,
+   "dur": 1.6,
+   "name": "Luzes de Natal",
+   "details": "grande variedade"
+  },
+  {
+   "type": "photo",
+   "at": 6.653,
+   "dur": 1.2,
+   "file": "../fotos/IMG_5007.jpg",
+   "_nota": "cordão luminoso Taschibra no 'luzes natalinas'"
+  },
+  {
+   "type": "price",
+   "at": 7.933,
+   "dur": 2.15,
+   "kicker": "a partir de",
+   "value": "R$ 14,90",
+   "note": "luzes de Natal"
+  },
+  {
+   "type": "photo",
+   "at": 13.053,
+   "dur": 1.6,
+   "file": "../fotos/IMG_5009.jpg",
+   "_nota": "no 'deixar sua casa ainda mais bonita'"
+  },
+  {
+   "type": "end"
+  }
+ ],
+ "music": {
+  "style": "lofi",
+  "end_boost_db": 10,
+  "seed": 3
+ },
+ "sfx": "cards",
+ "logo": false,
+ "mute_source": false
+}

@@ -1,0 +1,132 @@
+{
+ "source": "../../../01 ENVIAR AQUI/IMG_5441.MOV",
+ "hdr": "auto",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.4,
+   "zoom": 1.15,
+   "anchor": [
+    540,
+    860
+   ],
+   "_nota": "gancho"
+  },
+  {
+   "start": 4.4,
+   "end": 12.2,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ],
+   "_nota": "maleta inteira na tela"
+  },
+  {
+   "start": 12.2,
+   "end": 16.75,
+   "zoom": 1.15,
+   "anchor": [
+    540,
+    880
+   ],
+   "_nota": "oferta"
+  },
+  {
+   "start": 16.75,
+   "end": 20.9,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ]
+  },
+  {
+   "start": 20.9,
+   "end": 27.25,
+   "zoom": 1.25,
+   "anchor": [
+    540,
+    780
+   ],
+   "_nota": "CTA"
+  }
+ ],
+ "hold": 2.6,
+ "zoom_ease": 0.5,
+ "captions": {
+  "style": "ELC",
+  "cy": 1060,
+  "hook_end": 4.4,
+  "hook_top": false,
+  "big": [],
+  "accents": [
+   "organizado",
+   "qualidade tramontina",
+   "promoção"
+  ],
+  "strikes": [
+   "espalhadas"
+  ],
+  "keywords": [],
+  "boxes": [],
+  "fix": {
+   "divisoras": "divisórias",
+   "o de nossos": "um de nossos"
+  },
+  "keep_case": [
+   "Eletro",
+   "Company",
+   "Londrina",
+   "Tiradentes",
+   "Bio",
+   "Natal",
+   "Tramontina"
+  ],
+  "words_file": "transcript.json",
+  "skip": []
+ },
+ "cards": [
+  {
+   "type": "product",
+   "at": 6.08,
+   "dur": 1.95,
+   "name": "Maleta organizadora",
+   "details": "Tramontina",
+   "spec": "14 divisórias"
+  },
+  {
+   "type": "photo",
+   "at": 8.08,
+   "dur": 1.75,
+   "file": "../fotos/IMG_5028.jpg",
+   "_nota": "maleta aberta no '14 divisórias móveis'"
+  },
+  {
+   "type": "price",
+   "at": 13.55,
+   "dur": 3.15,
+   "kicker": "maleta Tramontina",
+   "old": "R$ 119,90",
+   "value": "R$ 89,90"
+  },
+  {
+   "type": "photo",
+   "at": 16.88,
+   "dur": 1.7,
+   "file": "../fotos/IMG_5025.jpg",
+   "_nota": "maleta fechada no 'É qualidade Tramontina'"
+  },
+  {
+   "type": "end"
+  }
+ ],
+ "music": {
+  "style": "lofi",
+  "end_boost_db": 10,
+  "seed": 7
+ },
+ "sfx": "cards",
+ "logo": false,
+ "mute_source": false
+}

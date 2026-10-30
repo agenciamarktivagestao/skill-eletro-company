@@ -1,0 +1,438 @@
+{
+ "language": "pt",
+ "engine": "parakeet",
+ "words": [
+  {
+   "word": "Você",
+   "start": 0.16,
+   "end": 0.4,
+   "p": 1.0
+  },
+  {
+   "word": "que",
+   "start": 0.4,
+   "end": 0.56,
+   "p": 1.0
+  },
+  {
+   "word": "é",
+   "start": 0.56,
+   "end": 0.64,
+   "p": 1.0
+  },
+  {
+   "word": "de",
+   "start": 0.64,
+   "end": 0.72,
+   "p": 1.0
+  },
+  {
+   "word": "Londrina",
+   "start": 0.72,
+   "end": 1.28,
+   "p": 1.0
+  },
+  {
+   "word": "já",
+   "start": 1.28,
+   "end": 1.44,
+   "p": 1.0
+  },
+  {
+   "word": "começou",
+   "start": 1.44,
+   "end": 1.84,
+   "p": 1.0
+  },
+  {
+   "word": "a",
+   "start": 1.84,
+   "end": 2.0,
+   "p": 1.0
+  },
+  {
+   "word": "preparar",
+   "start": 2.0,
+   "end": 2.4,
+   "p": 1.0
+  },
+  {
+   "word": "a",
+   "start": 2.4,
+   "end": 2.48,
+   "p": 1.0
+  },
+  {
+   "word": "sua",
+   "start": 2.48,
+   "end": 2.64,
+   "p": 1.0
+  },
+  {
+   "word": "decoração",
+   "start": 2.64,
+   "end": 3.2,
+   "p": 1.0
+  },
+  {
+   "word": "de",
+   "start": 3.2,
+   "end": 3.36,
+   "p": 1.0
+  },
+  {
+   "word": "Natal?",
+   "start": 3.36,
+   "end": 3.68,
+   "p": 1.0
+  },
+  {
+   "word": "Aqui",
+   "start": 3.84,
+   "end": 4.0,
+   "p": 1.0
+  },
+  {
+   "word": "na",
+   "start": 4.0,
+   "end": 4.16,
+   "p": 1.0
+  },
+  {
+   "word": "Eletro",
+   "start": 4.16,
+   "end": 4.56,
+   "p": 1.0
+  },
+  {
+   "word": "Company",
+   "start": 4.56,
+   "end": 5.04,
+   "p": 1.0
+  },
+  {
+   "word": "você",
+   "start": 5.04,
+   "end": 5.2,
+   "p": 1.0
+  },
+  {
+   "word": "encontra",
+   "start": 5.2,
+   "end": 5.6,
+   "p": 1.0
+  },
+  {
+   "word": "uma",
+   "start": 5.6,
+   "end": 5.84,
+   "p": 1.0
+  },
+  {
+   "word": "grande",
+   "start": 5.84,
+   "end": 6.08,
+   "p": 1.0
+  },
+  {
+   "word": "variedade",
+   "start": 6.08,
+   "end": 6.56,
+   "p": 1.0
+  },
+  {
+   "word": "de",
+   "start": 6.56,
+   "end": 6.72,
+   "p": 1.0
+  },
+  {
+   "word": "luzes",
+   "start": 6.72,
+   "end": 7.2,
+   "p": 1.0
+  },
+  {
+   "word": "natalinas",
+   "start": 7.2,
+   "end": 7.84,
+   "p": 1.0
+  },
+  {
+   "word": "com",
+   "start": 8.0,
+   "end": 8.16,
+   "p": 1.0
+  },
+  {
+   "word": "opções",
+   "start": 8.16,
+   "end": 8.64,
+   "p": 1.0
+  },
+  {
+   "word": "a",
+   "start": 8.64,
+   "end": 8.72,
+   "p": 1.0
+  },
+  {
+   "word": "partir",
+   "start": 8.72,
+   "end": 8.96,
+   "p": 1.0
+  },
+  {
+   "word": "de",
+   "start": 8.96,
+   "end": 9.04,
+   "p": 1.0
+  },
+  {
+   "word": "R$",
+   "start": 9.04,
+   "end": 9.2,
+   "p": 1.0
+  },
+  {
+   "word": "14,90.",
+   "start": 9.2,
+   "end": 9.92,
+   "p": 1.0
+  },
+  {
+   "word": "É",
+   "start": 10.16,
+   "end": 10.24,
+   "p": 1.0
+  },
+  {
+   "word": "o",
+   "start": 10.24,
+   "end": 10.32,
+   "p": 1.0
+  },
+  {
+   "word": "melhor",
+   "start": 10.4,
+   "end": 10.72,
+   "p": 1.0
+  },
+  {
+   "word": "preço",
+   "start": 10.72,
+   "end": 11.04,
+   "p": 1.0
+  },
+  {
+   "word": "de",
+   "start": 11.04,
+   "end": 11.2,
+   "p": 1.0
+  },
+  {
+   "word": "Londrina.",
+   "start": 11.2,
+   "end": 11.68,
+   "p": 1.0
+  },
+  {
+   "word": "Preços",
+   "start": 11.92,
+   "end": 12.357,
+   "p": 1.0
+  },
+  {
+   "word": "imperdíveis",
+   "start": 12.357,
+   "end": 12.96,
+   "p": 1.0
+  },
+  {
+   "word": "para",
+   "start": 12.96,
+   "end": 13.12,
+   "p": 1.0
+  },
+  {
+   "word": "deixar",
+   "start": 13.12,
+   "end": 13.52,
+   "p": 1.0
+  },
+  {
+   "word": "sua",
+   "start": 13.52,
+   "end": 13.68,
+   "p": 1.0
+  },
+  {
+   "word": "casa",
+   "start": 13.68,
+   "end": 14.0,
+   "p": 1.0
+  },
+  {
+   "word": "ainda",
+   "start": 14.0,
+   "end": 14.24,
+   "p": 1.0
+  },
+  {
+   "word": "mais",
+   "start": 14.24,
+   "end": 14.4,
+   "p": 1.0
+  },
+  {
+   "word": "bonita",
+   "start": 14.4,
+   "end": 14.96,
+   "p": 1.0
+  },
+  {
+   "word": "neste",
+   "start": 14.96,
+   "end": 15.28,
+   "p": 1.0
+  },
+  {
+   "word": "Natal.",
+   "start": 15.28,
+   "end": 15.76,
+   "p": 1.0
+  },
+  {
+   "word": "Não",
+   "start": 15.92,
+   "end": 16.16,
+   "p": 1.0
+  },
+  {
+   "word": "deixe",
+   "start": 16.16,
+   "end": 16.56,
+   "p": 1.0
+  },
+  {
+   "word": "para",
+   "start": 16.56,
+   "end": 16.72,
+   "p": 1.0
+  },
+  {
+   "word": "a",
+   "start": 16.72,
+   "end": 16.8,
+   "p": 1.0
+  },
+  {
+   "word": "última",
+   "start": 16.8,
+   "end": 17.04,
+   "p": 1.0
+  },
+  {
+   "word": "hora,",
+   "start": 17.04,
+   "end": 17.2,
+   "p": 1.0
+  },
+  {
+   "word": "venha",
+   "start": 17.28,
+   "end": 17.44,
+   "p": 1.0
+  },
+  {
+   "word": "até",
+   "start": 17.44,
+   "end": 17.52,
+   "p": 1.0
+  },
+  {
+   "word": "Eletro",
+   "start": 17.68,
+   "end": 18.08,
+   "p": 1.0
+  },
+  {
+   "word": "Company",
+   "start": 18.08,
+   "end": 18.48,
+   "p": 1.0
+  },
+  {
+   "word": "e",
+   "start": 18.48,
+   "end": 18.56,
+   "p": 1.0
+  },
+  {
+   "word": "garanta",
+   "start": 18.56,
+   "end": 18.88,
+   "p": 1.0
+  },
+  {
+   "word": "suas",
+   "start": 19.04,
+   "end": 19.2,
+   "p": 1.0
+  },
+  {
+   "word": "luzes",
+   "start": 19.28,
+   "end": 19.68,
+   "p": 1.0
+  },
+  {
+   "word": "de",
+   "start": 19.68,
+   "end": 19.76,
+   "p": 1.0
+  },
+  {
+   "word": "Natal",
+   "start": 19.76,
+   "end": 20.16,
+   "p": 1.0
+  },
+  {
+   "word": "ou",
+   "start": 20.24,
+   "end": 20.4,
+   "p": 1.0
+  },
+  {
+   "word": "clique",
+   "start": 20.4,
+   "end": 20.72,
+   "p": 1.0
+  },
+  {
+   "word": "no",
+   "start": 20.72,
+   "end": 20.88,
+   "p": 1.0
+  },
+  {
+   "word": "link",
+   "start": 20.88,
+   "end": 21.12,
+   "p": 1.0
+  },
+  {
+   "word": "da",
+   "start": 21.12,
+   "end": 21.28,
+   "p": 1.0
+  },
+  {
+   "word": "BIL.",
+   "start": 21.28,
+   "end": 21.68,
+   "p": 1.0
+  }
+ ]
+}

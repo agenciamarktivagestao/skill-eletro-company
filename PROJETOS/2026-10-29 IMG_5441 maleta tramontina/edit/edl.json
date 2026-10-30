@@ -1,0 +1,187 @@
+{
+ "source": "/Users/agenciamarktiva/Downloads/Eletro Company/PROJETOS/2026-10-29 IMG_5441 maleta tramontina/IMG_5441.MOV",
+ "hdr": "auto",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.4,
+   "zoom": 1.188,
+   "anchor": [
+    522,
+    970
+   ],
+   "_nota": "gancho",
+   "_face": [
+    522.0,
+    355.1,
+    304.0
+   ],
+   "_face_t": [
+    0.0,
+    4.4
+   ],
+   "level": "medio",
+   "_frame": "auto"
+  },
+  {
+   "start": 4.4,
+   "end": 12.2,
+   "zoom": 1.069,
+   "anchor": [
+    524,
+    1022
+   ],
+   "_nota": "maleta inteira na tela",
+   "_face": [
+    524.0,
+    339.4,
+    308.0
+   ],
+   "_face_t": [
+    4.4,
+    12.2
+   ],
+   "level": "aberto",
+   "_frame": "auto"
+  },
+  {
+   "start": 12.2,
+   "end": 16.75,
+   "zoom": 1.172,
+   "anchor": [
+    592,
+    957
+   ],
+   "_nota": "oferta",
+   "_face": [
+    592.0,
+    334.2,
+    314.0
+   ],
+   "_face_t": [
+    12.2,
+    16.75
+   ],
+   "level": "medio",
+   "_frame": "auto"
+  },
+  {
+   "start": 16.75,
+   "end": 20.9,
+   "zoom": 1.056,
+   "anchor": [
+    544,
+    1011
+   ],
+   "_face": [
+    543.5,
+    319.1,
+    327.0
+   ],
+   "_face_t": [
+    16.75,
+    20.9
+   ],
+   "level": "aberto",
+   "_frame": "auto"
+  },
+  {
+   "start": 20.9,
+   "end": 27.25,
+   "zoom": 1.308,
+   "anchor": [
+    502,
+    902
+   ],
+   "_nota": "CTA",
+   "_face": [
+    502.0,
+    343.8,
+    316.0
+   ],
+   "_face_t": [
+    20.9,
+    27.25
+   ],
+   "level": "fechado",
+   "_frame": "auto"
+  }
+ ],
+ "hold": 2.6,
+ "zoom_ease": 0.5,
+ "captions": {
+  "style": "ELC",
+  "cy": 1060,
+  "hook_end": 4.4,
+  "hook_top": false,
+  "big": [],
+  "accents": [
+   "organizado",
+   "qualidade tramontina",
+   "promoção"
+  ],
+  "strikes": [
+   "espalhadas"
+  ],
+  "keywords": [],
+  "boxes": [],
+  "fix": {
+   "divisoras": "divisórias",
+   "o de nossos": "um de nossos"
+  },
+  "keep_case": [
+   "Eletro",
+   "Company",
+   "Londrina",
+   "Tiradentes",
+   "Bio",
+   "Natal",
+   "Tramontina"
+  ],
+  "words_file": "transcript.json",
+  "skip": []
+ },
+ "cards": [
+  {
+   "type": "product",
+   "at": 6.08,
+   "dur": 1.95,
+   "name": "Maleta organizadora",
+   "details": "Tramontina",
+   "spec": "14 divisórias"
+  },
+  {
+   "type": "photo",
+   "at": 8.08,
+   "dur": 1.75,
+   "file": "../fotos/IMG_5028.jpg",
+   "_nota": "maleta aberta no '14 divisórias móveis'"
+  },
+  {
+   "type": "price",
+   "at": 13.55,
+   "dur": 3.15,
+   "kicker": "maleta Tramontina",
+   "old": "R$ 119,90",
+   "value": "R$ 89,90"
+  },
+  {
+   "type": "photo",
+   "at": 16.88,
+   "dur": 1.7,
+   "file": "../fotos/IMG_5025.jpg",
+   "_nota": "maleta fechada no 'É qualidade Tramontina'"
+  },
+  {
+   "type": "end"
+  }
+ ],
+ "music": {
+  "style": "lofi",
+  "end_boost_db": 10,
+  "seed": 7
+ },
+ "sfx": "cards",
+ "logo": false,
+ "mute_source": false
+}

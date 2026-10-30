@@ -1,0 +1,378 @@
+{
+ "language": "pt",
+ "engine": "parakeet",
+ "words": [
+  {
+   "word": "Você",
+   "start": 0.0,
+   "end": 0.32,
+   "p": 1.0
+  },
+  {
+   "word": "trabalha",
+   "start": 0.32,
+   "end": 0.72,
+   "p": 1.0
+  },
+  {
+   "word": "com",
+   "start": 0.72,
+   "end": 0.88,
+   "p": 1.0
+  },
+  {
+   "word": "ferramentas",
+   "start": 0.88,
+   "end": 1.44,
+   "p": 1.0
+  },
+  {
+   "word": "profissionais?",
+   "start": 1.44,
+   "end": 1.84,
+   "p": 1.0
+  },
+  {
+   "word": "Olha",
+   "start": 2.08,
+   "end": 2.4,
+   "p": 1.0
+  },
+  {
+   "word": "essa",
+   "start": 2.4,
+   "end": 2.48,
+   "p": 1.0
+  },
+  {
+   "word": "oferta.",
+   "start": 2.64,
+   "end": 2.96,
+   "p": 1.0
+  },
+  {
+   "word": "Aqui",
+   "start": 3.04,
+   "end": 3.28,
+   "p": 1.0
+  },
+  {
+   "word": "na",
+   "start": 3.28,
+   "end": 3.36,
+   "p": 1.0
+  },
+  {
+   "word": "Eletro Company",
+   "start": 3.36,
+   "end": 4.08,
+   "p": 1.0
+  },
+  {
+   "word": "o",
+   "start": 4.16,
+   "end": 4.24,
+   "p": 1.0
+  },
+  {
+   "word": "kit",
+   "start": 4.24,
+   "end": 4.4,
+   "p": 1.0
+  },
+  {
+   "word": "profissional",
+   "start": 4.56,
+   "end": 4.96,
+   "p": 1.0
+  },
+  {
+   "word": "De",
+   "start": 4.96,
+   "end": 5.12,
+   "p": 1.0
+  },
+  {
+   "word": "Vault",
+   "start": 5.12,
+   "end": 5.44,
+   "p": 1.0
+  },
+  {
+   "word": "com",
+   "start": 5.52,
+   "end": 5.68,
+   "p": 1.0
+  },
+  {
+   "word": "parafusadeira,",
+   "start": 5.76,
+   "end": 6.56,
+   "p": 1.0
+  },
+  {
+   "word": "furadeira",
+   "start": 6.64,
+   "end": 7.36,
+   "p": 1.0
+  },
+  {
+   "word": "e",
+   "start": 7.36,
+   "end": 7.52,
+   "p": 1.0
+  },
+  {
+   "word": "duas",
+   "start": 7.52,
+   "end": 7.84,
+   "p": 1.0
+  },
+  {
+   "word": "baterias,",
+   "start": 7.84,
+   "end": 8.4,
+   "p": 1.0
+  },
+  {
+   "word": "que",
+   "start": 8.48,
+   "end": 8.64,
+   "p": 1.0
+  },
+  {
+   "word": "custava",
+   "start": 8.64,
+   "end": 8.96,
+   "p": 1.0
+  },
+  {
+   "word": "R$",
+   "start": 9.04,
+   "end": 9.2,
+   "p": 1.0
+  },
+  {
+   "word": "1.399,90,",
+   "start": 9.2,
+   "end": 10.56,
+   "p": 1.0
+  },
+  {
+   "word": "agora",
+   "start": 10.88,
+   "end": 11.04,
+   "p": 1.0
+  },
+  {
+   "word": "está",
+   "start": 11.12,
+   "end": 11.28,
+   "p": 1.0
+  },
+  {
+   "word": "por",
+   "start": 11.28,
+   "end": 11.44,
+   "p": 1.0
+  },
+  {
+   "word": "apenas",
+   "start": 11.44,
+   "end": 11.76,
+   "p": 1.0
+  },
+  {
+   "word": "R$",
+   "start": 11.76,
+   "end": 11.92,
+   "p": 1.0
+  },
+  {
+   "word": "998,50.",
+   "start": 11.92,
+   "end": 13.28,
+   "p": 1.0
+  },
+  {
+   "word": "Potência,",
+   "start": 13.68,
+   "end": 14.08,
+   "p": 1.0
+  },
+  {
+   "word": "praticidade",
+   "start": 14.24,
+   "end": 14.96,
+   "p": 1.0
+  },
+  {
+   "word": "e",
+   "start": 14.96,
+   "end": 15.12,
+   "p": 1.0
+  },
+  {
+   "word": "qualidade",
+   "start": 15.12,
+   "end": 15.52,
+   "p": 1.0
+  },
+  {
+   "word": "de",
+   "start": 15.52,
+   "end": 15.6,
+   "p": 1.0
+  },
+  {
+   "word": "Vault",
+   "start": 15.76,
+   "end": 16.08,
+   "p": 1.0
+  },
+  {
+   "word": "para",
+   "start": 16.32,
+   "end": 16.48,
+   "p": 1.0
+  },
+  {
+   "word": "facilitar",
+   "start": 16.48,
+   "end": 16.96,
+   "p": 1.0
+  },
+  {
+   "word": "o",
+   "start": 17.12,
+   "end": 17.36,
+   "p": 1.0
+  },
+  {
+   "word": "seu",
+   "start": 17.36,
+   "end": 17.52,
+   "p": 1.0
+  },
+  {
+   "word": "trabalho.",
+   "start": 17.52,
+   "end": 17.84,
+   "p": 1.0
+  },
+  {
+   "word": "Não",
+   "start": 18.0,
+   "end": 18.16,
+   "p": 1.0
+  },
+  {
+   "word": "perca",
+   "start": 18.16,
+   "end": 18.56,
+   "p": 1.0
+  },
+  {
+   "word": "essa",
+   "start": 18.64,
+   "end": 18.88,
+   "p": 1.0
+  },
+  {
+   "word": "oportunidade,",
+   "start": 18.88,
+   "end": 19.28,
+   "p": 1.0
+  },
+  {
+   "word": "temos",
+   "start": 19.44,
+   "end": 19.76,
+   "p": 1.0
+  },
+  {
+   "word": "poucas",
+   "start": 19.76,
+   "end": 20.16,
+   "p": 1.0
+  },
+  {
+   "word": "unidades",
+   "start": 20.16,
+   "end": 20.56,
+   "p": 1.0
+  },
+  {
+   "word": "em",
+   "start": 20.56,
+   "end": 20.64,
+   "p": 1.0
+  },
+  {
+   "word": "estoque,",
+   "start": 20.64,
+   "end": 20.96,
+   "p": 1.0
+  },
+  {
+   "word": "então",
+   "start": 21.04,
+   "end": 21.2,
+   "p": 1.0
+  },
+  {
+   "word": "vem",
+   "start": 21.28,
+   "end": 21.44,
+   "p": 1.0
+  },
+  {
+   "word": "até",
+   "start": 21.52,
+   "end": 21.6,
+   "p": 1.0
+  },
+  {
+   "word": "a",
+   "start": 21.6,
+   "end": 21.68,
+   "p": 1.0
+  },
+  {
+   "word": "Eleetrocompany",
+   "start": 21.68,
+   "end": 22.48,
+   "p": 1.0
+  },
+  {
+   "word": "e",
+   "start": 22.48,
+   "end": 22.56,
+   "p": 1.0
+  },
+  {
+   "word": "garanta",
+   "start": 22.56,
+   "end": 22.88,
+   "p": 1.0
+  },
+  {
+   "word": "esse",
+   "start": 23.04,
+   "end": 23.2,
+   "p": 1.0
+  },
+  {
+   "word": "seu",
+   "start": 23.28,
+   "end": 23.52,
+   "p": 1.0
+  },
+  {
+   "word": "kit.",
+   "start": 23.52,
+   "end": 23.76,
+   "p": 1.0
+  }
+ ]
+}

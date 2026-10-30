@@ -1,0 +1,126 @@
+{
+ "source": "../../../01 ENVIAR AQUI/IMG_5364.MOV",
+ "hdr": "auto",
+ "segments": [
+  {
+   "start": 0.08,
+   "end": 3.95,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ],
+   "_nota": "gancho"
+  },
+  {
+   "start": 3.95,
+   "end": 7.45,
+   "zoom": 1.15,
+   "anchor": [
+    540,
+    880
+   ],
+   "_nota": "semana do Disjuntor Steck (título atrás dele)"
+  },
+  {
+   "start": 7.45,
+   "end": 14.2,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ]
+  },
+  {
+   "start": 14.2,
+   "end": 19.45,
+   "zoom": 1.15,
+   "anchor": [
+    540,
+    880
+   ]
+  },
+  {
+   "start": 19.45,
+   "end": 26.4,
+   "zoom": 1.25,
+   "anchor": [
+    540,
+    780
+   ],
+   "_nota": "CTA"
+  }
+ ],
+ "hold": 2.6,
+ "zoom_ease": 0.5,
+ "captions": {
+  "style": "ELC",
+  "cy": 1060,
+  "hook_end": 3.9,
+  "hook_top": false,
+  "big": [
+   "atenção",
+   "reformando"
+  ],
+  "accents": [
+   "qualidade",
+   "economizar",
+   "disjuntor steck"
+  ],
+  "strikes": [],
+  "keywords": [],
+  "boxes": [],
+  "fix": {
+   "dijuntor": "Disjuntor",
+   "stack": "Steck",
+   "o dos": "um dos"
+  },
+  "keep_case": [
+   "Eletro",
+   "Company",
+   "Londrina",
+   "Tiradentes",
+   "Bio",
+   "Natal",
+   "Steck",
+   "Disjuntor"
+  ],
+  "words_file": "transcript.json",
+  "skip": []
+ },
+ "cards": [
+  {
+   "type": "price",
+   "at": 4.013,
+   "dur": 3.3,
+   "sfx": false,
+   "_nota": "lockup de texto na frente (padrão do preço, sem preço): o título gigante atrás dele ficava escondido pela cabeça",
+   "kicker": "começou a semana do",
+   "value": "Disjuntor Steck"
+  },
+  {
+   "type": "label",
+   "at": 10.733,
+   "dur": 1.8,
+   "text": "Condições especiais"
+  },
+  {
+   "type": "end"
+  }
+ ],
+ "music": {
+  "style": "lofi",
+  "end_boost_db": 10,
+  "seed": 5
+ },
+ "sfx": "cards",
+ "logo": false,
+ "mute_source": false,
+ "sfx_events": [
+  {
+   "t": 4.013,
+   "kind": "pop",
+   "src": "lockup"
+  }
+ ]
+}

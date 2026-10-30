@@ -1,0 +1,535 @@
+{
+ "language": "pt",
+ "engine": "parakeet",
+ "words": [
+  {
+   "word": "Tá",
+   "start": 0.0,
+   "end": 0.32,
+   "p": 1.0
+  },
+  {
+   "word": "faltando",
+   "start": 0.32,
+   "end": 0.72,
+   "p": 1.0
+  },
+  {
+   "word": "tomada",
+   "start": 0.72,
+   "end": 1.12,
+   "p": 1.0
+  },
+  {
+   "word": "aí",
+   "start": 1.12,
+   "end": 1.36,
+   "p": 1.0
+  },
+  {
+   "word": "na",
+   "start": 1.36,
+   "end": 1.52,
+   "p": 1.0
+  },
+  {
+   "word": "sua",
+   "start": 1.52,
+   "end": 1.76,
+   "p": 1.0
+  },
+  {
+   "word": "casa",
+   "start": 1.76,
+   "end": 2.08,
+   "p": 1.0
+  },
+  {
+   "word": "ou",
+   "start": 2.08,
+   "end": 2.24,
+   "p": 1.0
+  },
+  {
+   "word": "no",
+   "start": 2.24,
+   "end": 2.4,
+   "p": 1.0
+  },
+  {
+   "word": "seu",
+   "start": 2.4,
+   "end": 2.56,
+   "p": 1.0
+  },
+  {
+   "word": "escritório?",
+   "start": 2.56,
+   "end": 3.2,
+   "p": 1.0
+  },
+  {
+   "word": "Na",
+   "start": 3.558,
+   "end": 3.718,
+   "p": 1.0
+  },
+  {
+   "word": "Eletro",
+   "start": 3.718,
+   "end": 4.118,
+   "p": 1.0
+  },
+  {
+   "word": "Company",
+   "start": 4.118,
+   "end": 4.518,
+   "p": 1.0
+  },
+  {
+   "word": "você",
+   "start": 4.518,
+   "end": 4.678,
+   "p": 1.0
+  },
+  {
+   "word": "encontra",
+   "start": 4.678,
+   "end": 5.078,
+   "p": 1.0
+  },
+  {
+   "word": "filtro",
+   "start": 5.078,
+   "end": 5.478,
+   "p": 1.0
+  },
+  {
+   "word": "de",
+   "start": 5.478,
+   "end": 5.638,
+   "p": 1.0
+  },
+  {
+   "word": "linha",
+   "start": 5.638,
+   "end": 5.918,
+   "p": 1.0
+  },
+  {
+   "word": "com",
+   "start": 5.958,
+   "end": 6.118,
+   "p": 1.0
+  },
+  {
+   "word": "5",
+   "start": 6.118,
+   "end": 6.278,
+   "p": 1.0
+  },
+  {
+   "word": "tomadas",
+   "start": 6.438,
+   "end": 6.918,
+   "p": 1.0
+  },
+  {
+   "word": "por",
+   "start": 6.918,
+   "end": 7.078,
+   "p": 1.0
+  },
+  {
+   "word": "apenas",
+   "start": 7.078,
+   "end": 7.398,
+   "p": 1.0
+  },
+  {
+   "word": "R$19,90.",
+   "start": 7.398,
+   "end": 8.518,
+   "p": 1.0
+  },
+  {
+   "word": "Mais",
+   "start": 8.838,
+   "end": 9.078,
+   "p": 1.0
+  },
+  {
+   "word": "praticidade",
+   "start": 9.078,
+   "end": 9.718,
+   "p": 1.0
+  },
+  {
+   "word": "para",
+   "start": 9.798,
+   "end": 9.958,
+   "p": 1.0
+  },
+  {
+   "word": "conectar",
+   "start": 9.958,
+   "end": 10.358,
+   "p": 1.0
+  },
+  {
+   "word": "os",
+   "start": 10.358,
+   "end": 10.438,
+   "p": 1.0
+  },
+  {
+   "word": "seus",
+   "start": 10.438,
+   "end": 10.598,
+   "p": 1.0
+  },
+  {
+   "word": "equipamentos,",
+   "start": 10.598,
+   "end": 11.118,
+   "p": 1.0
+  },
+  {
+   "word": "manter",
+   "start": 11.238,
+   "end": 11.558,
+   "p": 1.0
+  },
+  {
+   "word": "tudo",
+   "start": 11.558,
+   "end": 11.798,
+   "p": 1.0
+  },
+  {
+   "word": "organizado",
+   "start": 11.798,
+   "end": 12.358,
+   "p": 1.0
+  },
+  {
+   "word": "em",
+   "start": 12.358,
+   "end": 12.518,
+   "p": 1.0
+  },
+  {
+   "word": "um",
+   "start": 12.598,
+   "end": 12.758,
+   "p": 1.0
+  },
+  {
+   "word": "só",
+   "start": 12.758,
+   "end": 12.998,
+   "p": 1.0
+  },
+  {
+   "word": "lugar,",
+   "start": 12.998,
+   "end": 13.238,
+   "p": 1.0
+  },
+  {
+   "word": "além",
+   "start": 13.398,
+   "end": 13.638,
+   "p": 1.0
+  },
+  {
+   "word": "de",
+   "start": 13.638,
+   "end": 13.798,
+   "p": 1.0
+  },
+  {
+   "word": "evitar",
+   "start": 13.798,
+   "end": 14.198,
+   "p": 1.0
+  },
+  {
+   "word": "a",
+   "start": 14.198,
+   "end": 14.358,
+   "p": 1.0
+  },
+  {
+   "word": "queima",
+   "start": 14.358,
+   "end": 14.838,
+   "p": 1.0
+  },
+  {
+   "word": "dos",
+   "start": 14.838,
+   "end": 14.918,
+   "p": 1.0
+  },
+  {
+   "word": "seus",
+   "start": 14.918,
+   "end": 15.078,
+   "p": 1.0
+  },
+  {
+   "word": "aparelhos.",
+   "start": 15.078,
+   "end": 15.558,
+   "p": 1.0
+  },
+  {
+   "word": "E",
+   "start": 15.718,
+   "end": 15.878,
+   "p": 1.0
+  },
+  {
+   "word": "por",
+   "start": 15.878,
+   "end": 16.118,
+   "p": 1.0
+  },
+  {
+   "word": "esse",
+   "start": 16.118,
+   "end": 16.278,
+   "p": 1.0
+  },
+  {
+   "word": "preço,",
+   "start": 16.278,
+   "end": 16.518,
+   "p": 1.0
+  },
+  {
+   "word": "vale",
+   "start": 16.678,
+   "end": 16.918,
+   "p": 1.0
+  },
+  {
+   "word": "a",
+   "start": 16.918,
+   "end": 16.998,
+   "p": 1.0
+  },
+  {
+   "word": "pena",
+   "start": 16.998,
+   "end": 17.238,
+   "p": 1.0
+  },
+  {
+   "word": "levar",
+   "start": 17.238,
+   "end": 17.558,
+   "p": 1.0
+  },
+  {
+   "word": "mais",
+   "start": 17.558,
+   "end": 17.638,
+   "p": 1.0
+  },
+  {
+   "word": "de",
+   "start": 17.638,
+   "end": 17.798,
+   "p": 1.0
+  },
+  {
+   "word": "uma",
+   "start": 17.798,
+   "end": 18.038,
+   "p": 1.0
+  },
+  {
+   "word": "unidade.",
+   "start": 18.038,
+   "end": 18.438,
+   "p": 1.0
+  },
+  {
+   "word": "Então,",
+   "start": 18.518,
+   "end": 18.678,
+   "p": 1.0
+  },
+  {
+   "word": "se",
+   "start": 18.758,
+   "end": 18.838,
+   "p": 1.0
+  },
+  {
+   "word": "eu",
+   "start": 18.838,
+   "end": 18.918,
+   "p": 1.0
+  },
+  {
+   "word": "fosse",
+   "start": 18.918,
+   "end": 19.198,
+   "p": 1.0
+  },
+  {
+   "word": "você,",
+   "start": 19.318,
+   "end": 19.478,
+   "p": 1.0
+  },
+  {
+   "word": "venha",
+   "start": 19.558,
+   "end": 19.958,
+   "p": 1.0
+  },
+  {
+   "word": "para",
+   "start": 19.958,
+   "end": 20.118,
+   "p": 1.0
+  },
+  {
+   "word": "a",
+   "start": 20.118,
+   "end": 20.198,
+   "p": 1.0
+  },
+  {
+   "word": "Eletro",
+   "start": 20.198,
+   "end": 20.598,
+   "p": 1.0
+  },
+  {
+   "word": "Company,",
+   "start": 20.598,
+   "end": 20.998,
+   "p": 1.0
+  },
+  {
+   "word": "garanta",
+   "start": 21.158,
+   "end": 21.398,
+   "p": 1.0
+  },
+  {
+   "word": "o",
+   "start": 21.478,
+   "end": 21.638,
+   "p": 1.0
+  },
+  {
+   "word": "seu",
+   "start": 21.638,
+   "end": 21.798,
+   "p": 1.0
+  },
+  {
+   "word": "preço",
+   "start": 22.038,
+   "end": 22.438,
+   "p": 1.0
+  },
+  {
+   "word": "especial,",
+   "start": 22.438,
+   "end": 22.918,
+   "p": 1.0
+  },
+  {
+   "word": "o",
+   "start": 23.078,
+   "end": 23.158,
+   "p": 1.0
+  },
+  {
+   "word": "melhor",
+   "start": 23.158,
+   "end": 23.398,
+   "p": 1.0
+  },
+  {
+   "word": "preço",
+   "start": 23.398,
+   "end": 23.638,
+   "p": 1.0
+  },
+  {
+   "word": "de",
+   "start": 23.638,
+   "end": 23.718,
+   "p": 1.0
+  },
+  {
+   "word": "Londrina",
+   "start": 23.718,
+   "end": 24.278,
+   "p": 1.0
+  },
+  {
+   "word": "região,",
+   "start": 24.358,
+   "end": 24.598,
+   "p": 1.0
+  },
+  {
+   "word": "ou",
+   "start": 24.758,
+   "end": 24.918,
+   "p": 1.0
+  },
+  {
+   "word": "chame",
+   "start": 24.918,
+   "end": 25.238,
+   "p": 1.0
+  },
+  {
+   "word": "a",
+   "start": 25.318,
+   "end": 25.398,
+   "p": 1.0
+  },
+  {
+   "word": "gente",
+   "start": 25.398,
+   "end": 25.558,
+   "p": 1.0
+  },
+  {
+   "word": "pelo",
+   "start": 25.558,
+   "end": 25.718,
+   "p": 1.0
+  },
+  {
+   "word": "link",
+   "start": 25.718,
+   "end": 26.038,
+   "p": 1.0
+  },
+  {
+   "word": "da",
+   "start": 26.038,
+   "end": 26.198,
+   "p": 1.0
+  },
+  {
+   "word": "BIL.",
+   "start": 26.198,
+   "end": 26.518,
+   "p": 1.0
+  }
+ ],
+ "_nota": "até 'escritório?' do IMG_5616; depois, o transcript conferido do IMG_5363 + 0,518 s (mesmo áudio)"
+}

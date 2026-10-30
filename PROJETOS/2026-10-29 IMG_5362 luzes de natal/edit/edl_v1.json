@@ -1,0 +1,128 @@
+{
+ "source": "../../../01 ENVIAR AQUI/IMG_5362.MOV",
+ "hdr": "auto",
+ "segments": [
+  {
+   "start": 0.08,
+   "end": 3.62,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ],
+   "_nota": "gancho"
+  },
+  {
+   "start": 3.62,
+   "end": 9.95,
+   "zoom": 1.15,
+   "anchor": [
+    540,
+    980
+   ],
+   "_nota": "mostrando as luzes"
+  },
+  {
+   "start": 9.95,
+   "end": 15.6,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ]
+  },
+  {
+   "start": 15.6,
+   "end": 22.05,
+   "zoom": 1.25,
+   "anchor": [
+    540,
+    780
+   ],
+   "_nota": "CTA"
+  }
+ ],
+ "hold": 2.6,
+ "zoom_ease": 0.5,
+ "captions": {
+  "style": "ELC",
+  "cy": 1060,
+  "hook_end": 3.55,
+  "hook_top": false,
+  "big": [
+   "imperdíveis"
+  ],
+  "accents": [
+   "decoração de natal",
+   "melhor preço",
+   "luzes de natal"
+  ],
+  "strikes": [
+   "última hora"
+  ],
+  "keywords": [],
+  "boxes": [],
+  "fix": {
+   "bil": "Bio"
+  },
+  "keep_case": [
+   "Eletro",
+   "Company",
+   "Londrina",
+   "Tiradentes",
+   "Bio",
+   "Natal"
+  ],
+  "words_file": "transcript.json",
+  "skip": []
+ },
+ "cards": [
+  {
+   "type": "flash",
+   "at": 3.773,
+   "dur": 0.45,
+   "sfx": "switch",
+   "_nota": "luz acendendo no 'Aqui na Eletro Company'"
+  },
+  {
+   "type": "product",
+   "at": 4.973,
+   "dur": 1.6,
+   "name": "Luzes de Natal",
+   "details": "grande variedade"
+  },
+  {
+   "type": "photo",
+   "at": 6.653,
+   "dur": 1.2,
+   "file": "../fotos/IMG_5007.jpg",
+   "_nota": "cordão luminoso Taschibra no 'luzes natalinas'"
+  },
+  {
+   "type": "price",
+   "at": 7.933,
+   "dur": 2.15,
+   "kicker": "a partir de",
+   "value": "R$ 14,90",
+   "note": "luzes de Natal"
+  },
+  {
+   "type": "photo",
+   "at": 13.053,
+   "dur": 1.6,
+   "file": "../fotos/IMG_5009.jpg",
+   "_nota": "no 'deixar sua casa ainda mais bonita'"
+  },
+  {
+   "type": "end"
+  }
+ ],
+ "music": {
+  "style": "lofi",
+  "end_boost_db": 10,
+  "seed": 3
+ },
+ "sfx": "cards",
+ "logo": false,
+ "mute_source": false
+}

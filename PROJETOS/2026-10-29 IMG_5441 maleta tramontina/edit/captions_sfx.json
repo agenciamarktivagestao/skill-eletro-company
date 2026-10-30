@@ -1,0 +1,12 @@
+[
+ {
+  "t": 3.433,
+  "kind": "impact",
+  "why": "espalhadas"
+ },
+ {
+  "t": 24.0,
+  "kind": "click",
+  "why": "clique"
+ }
+]

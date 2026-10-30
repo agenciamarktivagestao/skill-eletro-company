@@ -1,0 +1,169 @@
+{
+ "source": "../../../01 ENVIAR AQUI/IMG_5442.MOV",
+ "hdr": "auto",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.65,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ],
+   "_nota": "gancho"
+  },
+  {
+   "start": 2.65,
+   "end": 6.75,
+   "zoom": 1.15,
+   "anchor": [
+    540,
+    880
+   ],
+   "_nota": "padrão Copel (título atrás dele)"
+  },
+  {
+   "start": 6.75,
+   "end": 11.85,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ],
+   "_nota": "lista na frente"
+  },
+  {
+   "start": 11.85,
+   "end": 19.05,
+   "zoom": 1.15,
+   "anchor": [
+    540,
+    880
+   ]
+  },
+  {
+   "start": 19.05,
+   "end": 22.65,
+   "zoom": 1.25,
+   "anchor": [
+    540,
+    780
+   ],
+   "_nota": "CTA"
+  }
+ ],
+ "hold": 2.6,
+ "zoom_ease": 0.5,
+ "captions": {
+  "style": "ELC",
+  "cy": 1060,
+  "hook_end": 2.65,
+  "hook_top": false,
+  "big": [
+   "obra"
+  ],
+  "accents": [
+   "melhor preço",
+   "orçamento",
+   "melhor oferta"
+  ],
+  "strikes": [],
+  "keywords": [],
+  "boxes": [],
+  "fix": {
+   "londrine região": "Londrina e região",
+   "copel": "Copel",
+   "trifás": "trifásico",
+   "entrem": "entre"
+  },
+  "keep_case": [
+   "Eletro",
+   "Company",
+   "Londrina",
+   "Tiradentes",
+   "Bio",
+   "Natal",
+   "Copel"
+  ],
+  "words_file": "transcript.json",
+  "skip": [
+   [
+    6.85,
+    11.85
+   ]
+  ]
+ },
+ "cards": [
+  {
+   "type": "price",
+   "at": 3.92,
+   "dur": 2.8,
+   "sfx": false,
+   "_nota": "lockup de texto na frente (padrão do preço, sem preço): o título gigante atrás dele ficava escondido pela cabeça",
+   "kicker": "menor preço em",
+   "value": "Padrão Copel",
+   "note": "já instalado"
+  },
+  {
+   "type": "checklist",
+   "at": 6.85,
+   "dur": 5.0,
+   "title": "Padrão Copel",
+   "place": "below",
+   "items": [
+    [
+     "Aéreo",
+     0.43
+    ],
+    [
+     "Subterrâneo",
+     1.07
+    ],
+    [
+     "Monofásico",
+     2.99
+    ],
+    [
+     "Bifásico",
+     3.79
+    ],
+    [
+     "Trifásico",
+     4.43
+    ]
+   ]
+  },
+  {
+   "type": "product",
+   "at": 17.44,
+   "dur": 2.0,
+   "name": "Av. Tiradentes, 80",
+   "details": "Jardim Shangri-Lá A · Londrina",
+   "sfx": false
+  },
+  {
+   "type": "label",
+   "at": 20.24,
+   "dur": 1.7,
+   "text": "Tempo limitado"
+  },
+  {
+   "type": "end"
+  }
+ ],
+ "music": {
+  "style": "lofi",
+  "end_boost_db": 10,
+  "seed": 8
+ },
+ "sfx": "cards",
+ "logo": false,
+ "mute_source": false,
+ "sfx_events": [
+  {
+   "t": 3.92,
+   "kind": "pop",
+   "src": "lockup"
+  }
+ ]
+}

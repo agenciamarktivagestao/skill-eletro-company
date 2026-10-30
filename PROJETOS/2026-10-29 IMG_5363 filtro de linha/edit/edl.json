@@ -1,0 +1,195 @@
+{
+ "source": "/Users/agenciamarktiva/Downloads/Eletro Company/PROJETOS/2026-10-29 IMG_5363 filtro de linha/IMG_5616.MOV",
+ "hdr": "auto",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.518,
+   "zoom": 1.102,
+   "anchor": [
+    490,
+    1049
+   ],
+   "_nota": "gancho",
+   "_face": [
+    474.0,
+    387.0,
+    286.0
+   ],
+   "_face_t": [
+    0.0,
+    3.518
+   ],
+   "level": "aberto",
+   "_frame": "auto"
+  },
+  {
+   "start": 3.518,
+   "end": 8.658,
+   "zoom": 1.212,
+   "anchor": [
+    490,
+    989
+   ],
+   "_nota": "mostrando o filtro",
+   "_face": [
+    489.5,
+    386.4,
+    286.0
+   ],
+   "_face_t": [
+    3.518,
+    8.658
+   ],
+   "level": "medio",
+   "_frame": "auto"
+  },
+  {
+   "start": 8.758,
+   "end": 15.618,
+   "zoom": 1.103,
+   "anchor": [
+    490,
+    1050
+   ],
+   "zoom_ease": 0,
+   "_nota": "corte no respiro + luz acendendo",
+   "_face": [
+    489.5,
+    387.8,
+    287.0
+   ],
+   "_face_t": [
+    8.758,
+    15.618
+   ],
+   "level": "aberto",
+   "_frame": "auto"
+  },
+  {
+   "start": 15.618,
+   "end": 18.418,
+   "zoom": 1.146,
+   "anchor": [
+    471,
+    935
+   ],
+   "_face": [
+    468.5,
+    297.5,
+    275.0
+   ],
+   "_face_t": [
+    15.618,
+    18.418
+   ],
+   "level": "medio",
+   "_frame": "auto"
+  },
+  {
+   "start": 18.418,
+   "end": 26.718,
+   "zoom": 1.345,
+   "anchor": [
+    470,
+    930
+   ],
+   "_nota": "CTA",
+   "_face": [
+    470.0,
+    386.6,
+    288.0
+   ],
+   "_face_t": [
+    18.418,
+    26.718
+   ],
+   "level": "fechado",
+   "_frame": "auto"
+  }
+ ],
+ "hold": 2.6,
+ "zoom_ease": 0.5,
+ "captions": {
+  "style": "ELC",
+  "cy": 1060,
+  "hook_end": 3.3,
+  "hook_top": false,
+  "big": [
+   "tomada"
+  ],
+  "accents": [
+   "praticidade",
+   "mais de uma unidade",
+   "melhor preço"
+  ],
+  "strikes": [
+   "queima"
+  ],
+  "keywords": [],
+  "boxes": [],
+  "fix": {
+   "bil": "Bio",
+   "londrina região": "Londrina e região"
+  },
+  "keep_case": [
+   "Eletro",
+   "Company",
+   "Londrina",
+   "Tiradentes",
+   "Bio",
+   "Natal"
+  ],
+  "words_file": "transcript.json",
+  "skip": []
+ },
+ "cards": [
+  {
+   "type": "product",
+   "at": 3.7,
+   "dur": 1.36,
+   "name": "Filtro de linha",
+   "details": "com fusível de proteção",
+   "spec": "5 tomadas"
+  },
+  {
+   "type": "photo",
+   "at": 5.078,
+   "dur": 1.85,
+   "file": "../fotos/IMG_5013.jpg",
+   "_nota": "filtro de linha (IMG_5013) no 'filtro de linha com 5 tomadas'; a placa do produto fica por cima"
+  },
+  {
+   "type": "price",
+   "at": 6.968,
+   "dur": 1.65,
+   "kicker": "por apenas",
+   "value": "R$ 19,90",
+   "note": "5 tomadas"
+  },
+  {
+   "type": "flash",
+   "at": 8.618,
+   "dur": 0.45,
+   "sfx": "switch"
+  },
+  {
+   "type": "label",
+   "at": 22.978,
+   "dur": 1.7,
+   "text": "Londrina e região"
+  },
+  {
+   "type": "end"
+  }
+ ],
+ "music": {
+  "style": "lofi",
+  "end_boost_db": 10,
+  "seed": 4
+ },
+ "sfx": "cards",
+ "logo": false,
+ "mute_source": false,
+ "_take": "IMG_5363 tinha o 'escritório' cortado; a agência mandou o IMG_5616 (mesmo take corrigido, +0,518 s a partir de 2,6 s)"
+}

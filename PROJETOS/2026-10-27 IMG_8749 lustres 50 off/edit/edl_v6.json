@@ -1,0 +1,167 @@
+{
+ "source": "/Users/agenciamarktiva/Downloads/Eletro Company/01 ENVIAR AQUI/IMG_8749.MOV",
+ "hdr": "auto",
+ "segments": [
+  {
+   "start": 0.06,
+   "end": 2.8,
+   "zoom": 1.2,
+   "anchor": [
+    520,
+    760
+   ],
+   "_nota": "gancho: close na pergunta"
+  },
+  {
+   "start": 2.8,
+   "end": 4.86,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ]
+  },
+  {
+   "start": 4.86,
+   "end": 9.66,
+   "zoom": 1.15,
+   "anchor": [
+    520,
+    800
+   ],
+   "_nota": "a oferta (50%)"
+  },
+  {
+   "start": 9.8,
+   "end": 11.433,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ],
+   "_nota": "lustres 1 (corte no respiro antes do take)",
+   "person": false
+  },
+  {
+   "start": 11.433,
+   "end": 14.6,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ],
+   "trans": "zoom",
+   "_nota": "lustres 2",
+   "person": false
+  },
+  {
+   "start": 14.6,
+   "end": 15.833,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ],
+   "_nota": "lustres 3 (corte seco)",
+   "person": false
+  },
+  {
+   "start": 15.833,
+   "end": 18.0,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ],
+   "trans": "zoom",
+   "_nota": "volta para a fala"
+  },
+  {
+   "start": 18.0,
+   "end": 22.4,
+   "zoom": 1.2,
+   "anchor": [
+    560,
+    760
+   ],
+   "_nota": "close no CTA; segue 0,4 s depois da última palavra para o \"lustre\" ser lido antes do card final"
+  }
+ ],
+ "hold": 2.6,
+ "zoom_ease": 0.5,
+ "captions": {
+  "style": "ELC",
+  "cy": 1060,
+  "hook_end": 2.7,
+  "hook_top": false,
+  "big": [
+   "iluminação",
+   "corra"
+  ],
+  "accents": [
+   "oportunidade",
+   "aconchegante",
+   "lustre"
+  ],
+  "boxes": [
+   "metade do preço"
+  ],
+  "strikes": [],
+  "keywords": [],
+  "fix": {
+   "mostrar": "mostruário",
+   "de tiradentes": "Tiradentes"
+  },
+  "keep_case": [
+   "Eletro",
+   "Company",
+   "Tiradentes"
+  ],
+  "words_file": "transcript.json",
+  "skip": []
+ },
+ "cards": [
+  {
+   "type": "price",
+   "at": 6.1,
+   "dur": 3.35,
+   "kicker": "todos os lustres",
+   "value": "50% OFF",
+   "note": "do mostruário"
+  },
+  {
+   "type": "flash",
+   "at": 9.47,
+   "dur": 0.45,
+   "sfx": "switch",
+   "_nota": "luz acendendo na troca fala → lustres"
+  },
+  {
+   "type": "label",
+   "at": 16.8,
+   "dur": 1.6,
+   "text": "Peças limitadas"
+  },
+  {
+   "type": "product",
+   "at": 19.0,
+   "dur": 2.0,
+   "name": "Av. Tiradentes, 80",
+   "details": "Jardim Shangri-Lá A · Londrina",
+   "sfx": false
+  },
+  {
+   "type": "end",
+   "cta": "Escolha o seu lustre"
+  }
+ ],
+ "music": {
+  "style": "upbeat",
+  "db": -22,
+  "end_boost_db": 10
+ },
+ "sfx": "cards",
+ "_sfx": "\"cards\" = sem o whoosh automático nas trocas de zoom (pedido: efeitos sem exagero)",
+ "logo": false,
+ "mute_source": false
+}

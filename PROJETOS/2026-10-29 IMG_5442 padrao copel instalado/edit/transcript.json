@@ -1,0 +1,450 @@
+{
+ "language": "pt",
+ "engine": "parakeet",
+ "words": [
+  {
+   "word": "Vai",
+   "start": 0.0,
+   "end": 0.16,
+   "p": 1.0
+  },
+  {
+   "word": "dar",
+   "start": 0.24,
+   "end": 0.48,
+   "p": 1.0
+  },
+  {
+   "word": "início",
+   "start": 0.48,
+   "end": 0.8,
+   "p": 1.0
+  },
+  {
+   "word": "na",
+   "start": 0.8,
+   "end": 0.96,
+   "p": 1.0
+  },
+  {
+   "word": "sua",
+   "start": 0.96,
+   "end": 1.2,
+   "p": 1.0
+  },
+  {
+   "word": "obra",
+   "start": 1.2,
+   "end": 1.52,
+   "p": 1.0
+  },
+  {
+   "word": "em",
+   "start": 1.52,
+   "end": 1.6,
+   "p": 1.0
+  },
+  {
+   "word": "Londrine",
+   "start": 1.6,
+   "end": 2.16,
+   "p": 1.0
+  },
+  {
+   "word": "região.",
+   "start": 2.32,
+   "end": 2.64,
+   "p": 1.0
+  },
+  {
+   "word": "A",
+   "start": 2.72,
+   "end": 2.88,
+   "p": 1.0
+  },
+  {
+   "word": "Eletro",
+   "start": 2.88,
+   "end": 3.28,
+   "p": 1.0
+  },
+  {
+   "word": "Company",
+   "start": 3.28,
+   "end": 3.68,
+   "p": 1.0
+  },
+  {
+   "word": "tem",
+   "start": 3.76,
+   "end": 3.92,
+   "p": 1.0
+  },
+  {
+   "word": "o",
+   "start": 3.92,
+   "end": 4.0,
+   "p": 1.0
+  },
+  {
+   "word": "menor",
+   "start": 4.0,
+   "end": 4.32,
+   "p": 1.0
+  },
+  {
+   "word": "preço",
+   "start": 4.32,
+   "end": 4.64,
+   "p": 1.0
+  },
+  {
+   "word": "em",
+   "start": 4.64,
+   "end": 4.8,
+   "p": 1.0
+  },
+  {
+   "word": "padrão",
+   "start": 4.8,
+   "end": 5.2,
+   "p": 1.0
+  },
+  {
+   "word": "copel",
+   "start": 5.2,
+   "end": 5.68,
+   "p": 1.0
+  },
+  {
+   "word": "já",
+   "start": 5.92,
+   "end": 6.16,
+   "p": 1.0
+  },
+  {
+   "word": "instalado.",
+   "start": 6.16,
+   "end": 6.72,
+   "p": 1.0
+  },
+  {
+   "word": "Pode",
+   "start": 6.88,
+   "end": 7.12,
+   "p": 1.0
+  },
+  {
+   "word": "ser",
+   "start": 7.12,
+   "end": 7.28,
+   "p": 1.0
+  },
+  {
+   "word": "aéreo",
+   "start": 7.28,
+   "end": 7.76,
+   "p": 1.0
+  },
+  {
+   "word": "ou",
+   "start": 7.76,
+   "end": 7.92,
+   "p": 1.0
+  },
+  {
+   "word": "subterrâneo,",
+   "start": 7.92,
+   "end": 8.6,
+   "p": 1.0
+  },
+  {
+   "word": "além",
+   "start": 8.64,
+   "end": 8.96,
+   "p": 1.0
+  },
+  {
+   "word": "de",
+   "start": 8.96,
+   "end": 9.12,
+   "p": 1.0
+  },
+  {
+   "word": "variedade",
+   "start": 9.12,
+   "end": 9.68,
+   "p": 1.0
+  },
+  {
+   "word": "de",
+   "start": 9.68,
+   "end": 9.84,
+   "p": 1.0
+  },
+  {
+   "word": "monofásico,",
+   "start": 9.84,
+   "end": 10.48,
+   "p": 1.0
+  },
+  {
+   "word": "bifásico",
+   "start": 10.64,
+   "end": 11.12,
+   "p": 1.0
+  },
+  {
+   "word": "e",
+   "start": 11.2,
+   "end": 11.28,
+   "p": 1.0
+  },
+  {
+   "word": "trifás.",
+   "start": 11.28,
+   "end": 11.76,
+   "p": 1.0
+  },
+  {
+   "word": "O",
+   "start": 12.0,
+   "end": 12.08,
+   "p": 1.0
+  },
+  {
+   "word": "melhor",
+   "start": 12.08,
+   "end": 12.24,
+   "p": 1.0
+  },
+  {
+   "word": "preço",
+   "start": 12.32,
+   "end": 12.72,
+   "p": 1.0
+  },
+  {
+   "word": "é",
+   "start": 12.72,
+   "end": 12.88,
+   "p": 1.0
+  },
+  {
+   "word": "com",
+   "start": 12.88,
+   "end": 13.04,
+   "p": 1.0
+  },
+  {
+   "word": "a",
+   "start": 13.04,
+   "end": 13.12,
+   "p": 1.0
+  },
+  {
+   "word": "gente",
+   "start": 13.12,
+   "end": 13.28,
+   "p": 1.0
+  },
+  {
+   "word": "aqui",
+   "start": 13.28,
+   "end": 13.44,
+   "p": 1.0
+  },
+  {
+   "word": "da",
+   "start": 13.44,
+   "end": 13.6,
+   "p": 1.0
+  },
+  {
+   "word": "Eletro Company,",
+   "start": 13.6,
+   "end": 14.24,
+   "p": 1.0
+  },
+  {
+   "word": "então",
+   "start": 14.4,
+   "end": 14.48,
+   "p": 1.0
+  },
+  {
+   "word": "entrem",
+   "start": 14.56,
+   "end": 14.88,
+   "p": 1.0
+  },
+  {
+   "word": "em",
+   "start": 14.88,
+   "end": 14.96,
+   "p": 1.0
+  },
+  {
+   "word": "contato",
+   "start": 14.96,
+   "end": 15.28,
+   "p": 1.0
+  },
+  {
+   "word": "para",
+   "start": 15.28,
+   "end": 15.44,
+   "p": 1.0
+  },
+  {
+   "word": "fazer",
+   "start": 15.44,
+   "end": 15.6,
+   "p": 1.0
+  },
+  {
+   "word": "seu",
+   "start": 15.68,
+   "end": 15.92,
+   "p": 1.0
+  },
+  {
+   "word": "orçamento",
+   "start": 15.92,
+   "end": 16.32,
+   "p": 1.0
+  },
+  {
+   "word": "ou",
+   "start": 16.32,
+   "end": 16.48,
+   "p": 1.0
+  },
+  {
+   "word": "venha",
+   "start": 16.48,
+   "end": 16.72,
+   "p": 1.0
+  },
+  {
+   "word": "até",
+   "start": 16.8,
+   "end": 16.88,
+   "p": 1.0
+  },
+  {
+   "word": "a",
+   "start": 16.88,
+   "end": 16.96,
+   "p": 1.0
+  },
+  {
+   "word": "nossa",
+   "start": 16.96,
+   "end": 17.12,
+   "p": 1.0
+  },
+  {
+   "word": "loja",
+   "start": 17.12,
+   "end": 17.28,
+   "p": 1.0
+  },
+  {
+   "word": "na",
+   "start": 17.36,
+   "end": 17.44,
+   "p": 1.0
+  },
+  {
+   "word": "Avenida",
+   "start": 17.44,
+   "end": 17.84,
+   "p": 1.0
+  },
+  {
+   "word": "Tiradentes,",
+   "start": 17.84,
+   "end": 18.4,
+   "p": 1.0
+  },
+  {
+   "word": "número",
+   "start": 18.48,
+   "end": 18.8,
+   "p": 1.0
+  },
+  {
+   "word": "80.",
+   "start": 18.8,
+   "end": 19.04,
+   "p": 1.0
+  },
+  {
+   "word": "Aproveite",
+   "start": 19.2,
+   "end": 19.76,
+   "p": 1.0
+  },
+  {
+   "word": "que",
+   "start": 19.84,
+   "end": 20.0,
+   "p": 1.0
+  },
+  {
+   "word": "é",
+   "start": 20.0,
+   "end": 20.08,
+   "p": 1.0
+  },
+  {
+   "word": "por",
+   "start": 20.08,
+   "end": 20.24,
+   "p": 1.0
+  },
+  {
+   "word": "tempo",
+   "start": 20.24,
+   "end": 20.56,
+   "p": 1.0
+  },
+  {
+   "word": "limitado",
+   "start": 20.56,
+   "end": 20.88,
+   "p": 1.0
+  },
+  {
+   "word": "a",
+   "start": 21.04,
+   "end": 21.12,
+   "p": 1.0
+  },
+  {
+   "word": "melhor",
+   "start": 21.12,
+   "end": 21.44,
+   "p": 1.0
+  },
+  {
+   "word": "oferta",
+   "start": 21.44,
+   "end": 21.76,
+   "p": 1.0
+  },
+  {
+   "word": "da",
+   "start": 21.76,
+   "end": 21.92,
+   "p": 1.0
+  },
+  {
+   "word": "região.",
+   "start": 21.92,
+   "end": 22.4,
+   "p": 1.0
+  }
+ ]
+}

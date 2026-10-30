@@ -1,0 +1,17 @@
+[
+ {
+  "t": 2.567,
+  "kind": "impact",
+  "why": "DECORAÇÃO DE NATAL?"
+ },
+ {
+  "t": 17.133,
+  "kind": "swipe",
+  "why": "última hora"
+ },
+ {
+  "t": 20.333,
+  "kind": "click",
+  "why": "clique"
+ }
+]

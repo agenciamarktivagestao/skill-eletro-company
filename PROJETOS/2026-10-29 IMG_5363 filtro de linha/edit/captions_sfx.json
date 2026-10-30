@@ -1,0 +1,12 @@
+[
+ {
+  "t": 0.733,
+  "kind": "impact",
+  "why": "tomada"
+ },
+ {
+  "t": 14.687,
+  "kind": "swipe",
+  "why": "queima"
+ }
+]

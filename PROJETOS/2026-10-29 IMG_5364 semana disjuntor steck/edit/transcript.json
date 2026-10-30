@@ -1,0 +1,456 @@
+{
+ "language": "pt",
+ "engine": "parakeet",
+ "words": [
+  {
+   "word": "Atenção,",
+   "start": 0.16,
+   "end": 0.56,
+   "p": 1.0
+  },
+  {
+   "word": "eletricistas",
+   "start": 0.72,
+   "end": 1.44,
+   "p": 1.0
+  },
+  {
+   "word": "e",
+   "start": 1.52,
+   "end": 1.68,
+   "p": 1.0
+  },
+  {
+   "word": "profissionais",
+   "start": 1.68,
+   "end": 2.4,
+   "p": 1.0
+  },
+  {
+   "word": "da",
+   "start": 2.4,
+   "end": 2.72,
+   "p": 1.0
+  },
+  {
+   "word": "construção",
+   "start": 2.72,
+   "end": 3.2,
+   "p": 1.0
+  },
+  {
+   "word": "de",
+   "start": 3.2,
+   "end": 3.36,
+   "p": 1.0
+  },
+  {
+   "word": "Londrina.",
+   "start": 3.36,
+   "end": 3.92,
+   "p": 1.0
+  },
+  {
+   "word": "Começou",
+   "start": 4.08,
+   "end": 4.56,
+   "p": 1.0
+  },
+  {
+   "word": "a",
+   "start": 4.56,
+   "end": 4.64,
+   "p": 1.0
+  },
+  {
+   "word": "semana",
+   "start": 4.64,
+   "end": 4.88,
+   "p": 1.0
+  },
+  {
+   "word": "do",
+   "start": 4.88,
+   "end": 5.04,
+   "p": 1.0
+  },
+  {
+   "word": "Dijuntor",
+   "start": 5.04,
+   "end": 5.76,
+   "p": 1.0
+  },
+  {
+   "word": "Steck",
+   "start": 5.76,
+   "end": 6.32,
+   "p": 1.0
+  },
+  {
+   "word": "aqui",
+   "start": 6.32,
+   "end": 6.56,
+   "p": 1.0
+  },
+  {
+   "word": "na",
+   "start": 6.56,
+   "end": 6.64,
+   "p": 1.0
+  },
+  {
+   "word": "Eletro Company.",
+   "start": 6.64,
+   "end": 7.44,
+   "p": 1.0
+  },
+  {
+   "word": "Disjuntores",
+   "start": 7.6,
+   "end": 8.32,
+   "p": 1.0
+  },
+  {
+   "word": "de",
+   "start": 8.32,
+   "end": 8.4,
+   "p": 1.0
+  },
+  {
+   "word": "uma",
+   "start": 8.56,
+   "end": 8.64,
+   "p": 1.0
+  },
+  {
+   "word": "marca",
+   "start": 8.64,
+   "end": 8.96,
+   "p": 1.0
+  },
+  {
+   "word": "reconhecida",
+   "start": 8.96,
+   "end": 9.68,
+   "p": 1.0
+  },
+  {
+   "word": "pela",
+   "start": 9.68,
+   "end": 10.0,
+   "p": 1.0
+  },
+  {
+   "word": "qualidade,",
+   "start": 10.0,
+   "end": 10.48,
+   "p": 1.0
+  },
+  {
+   "word": "com",
+   "start": 10.56,
+   "end": 10.8,
+   "p": 1.0
+  },
+  {
+   "word": "condições",
+   "start": 10.8,
+   "end": 11.36,
+   "p": 1.0
+  },
+  {
+   "word": "especiais",
+   "start": 11.36,
+   "end": 12.0,
+   "p": 1.0
+  },
+  {
+   "word": "e",
+   "start": 12.0,
+   "end": 12.16,
+   "p": 1.0
+  },
+  {
+   "word": "o",
+   "start": 12.16,
+   "end": 12.32,
+   "p": 1.0
+  },
+  {
+   "word": "dos",
+   "start": 12.32,
+   "end": 12.48,
+   "p": 1.0
+  },
+  {
+   "word": "melhores",
+   "start": 12.48,
+   "end": 12.96,
+   "p": 1.0
+  },
+  {
+   "word": "preços",
+   "start": 12.96,
+   "end": 13.48,
+   "p": 1.0
+  },
+  {
+   "word": "de",
+   "start": 13.44,
+   "end": 13.6,
+   "p": 1.0
+  },
+  {
+   "word": "Londrina.",
+   "start": 13.6,
+   "end": 14.16,
+   "p": 1.0
+  },
+  {
+   "word": "Então,",
+   "start": 14.32,
+   "end": 14.48,
+   "p": 1.0
+  },
+  {
+   "word": "se",
+   "start": 14.56,
+   "end": 14.64,
+   "p": 1.0
+  },
+  {
+   "word": "você",
+   "start": 14.64,
+   "end": 14.88,
+   "p": 1.0
+  },
+  {
+   "word": "está",
+   "start": 14.88,
+   "end": 15.12,
+   "p": 1.0
+  },
+  {
+   "word": "montando",
+   "start": 15.12,
+   "end": 15.6,
+   "p": 1.0
+  },
+  {
+   "word": "ou",
+   "start": 15.6,
+   "end": 15.76,
+   "p": 1.0
+  },
+  {
+   "word": "reformando",
+   "start": 15.76,
+   "end": 16.24,
+   "p": 1.0
+  },
+  {
+   "word": "uma",
+   "start": 16.24,
+   "end": 16.4,
+   "p": 1.0
+  },
+  {
+   "word": "instalação",
+   "start": 16.4,
+   "end": 16.8,
+   "p": 1.0
+  },
+  {
+   "word": "elétrica,",
+   "start": 16.8,
+   "end": 17.28,
+   "p": 1.0
+  },
+  {
+   "word": "essa",
+   "start": 17.44,
+   "end": 17.68,
+   "p": 1.0
+  },
+  {
+   "word": "é",
+   "start": 17.68,
+   "end": 17.84,
+   "p": 1.0
+  },
+  {
+   "word": "a",
+   "start": 17.84,
+   "end": 17.92,
+   "p": 1.0
+  },
+  {
+   "word": "oportunidade",
+   "start": 17.92,
+   "end": 18.56,
+   "p": 1.0
+  },
+  {
+   "word": "de",
+   "start": 18.56,
+   "end": 18.8,
+   "p": 1.0
+  },
+  {
+   "word": "economizar.",
+   "start": 18.8,
+   "end": 19.44,
+   "p": 1.0
+  },
+  {
+   "word": "Venha",
+   "start": 19.68,
+   "end": 20.0,
+   "p": 1.0
+  },
+  {
+   "word": "para",
+   "start": 20.0,
+   "end": 20.16,
+   "p": 1.0
+  },
+  {
+   "word": "a",
+   "start": 20.16,
+   "end": 20.24,
+   "p": 1.0
+  },
+  {
+   "word": "Eletro Company",
+   "start": 20.24,
+   "end": 20.96,
+   "p": 1.0
+  },
+  {
+   "word": "e",
+   "start": 20.96,
+   "end": 21.04,
+   "p": 1.0
+  },
+  {
+   "word": "aproveite",
+   "start": 21.04,
+   "end": 21.52,
+   "p": 1.0
+  },
+  {
+   "word": "a",
+   "start": 21.52,
+   "end": 21.6,
+   "p": 1.0
+  },
+  {
+   "word": "semana",
+   "start": 21.6,
+   "end": 21.84,
+   "p": 1.0
+  },
+  {
+   "word": "do",
+   "start": 21.84,
+   "end": 21.92,
+   "p": 1.0
+  },
+  {
+   "word": "Dijuntor",
+   "start": 21.92,
+   "end": 22.56,
+   "p": 1.0
+  },
+  {
+   "word": "Stack",
+   "start": 22.56,
+   "end": 22.8,
+   "p": 1.0
+  },
+  {
+   "word": "ou",
+   "start": 22.96,
+   "end": 23.12,
+   "p": 1.0
+  },
+  {
+   "word": "clique",
+   "start": 23.12,
+   "end": 23.44,
+   "p": 1.0
+  },
+  {
+   "word": "no",
+   "start": 23.44,
+   "end": 23.52,
+   "p": 1.0
+  },
+  {
+   "word": "link",
+   "start": 23.52,
+   "end": 23.68,
+   "p": 1.0
+  },
+  {
+   "word": "da",
+   "start": 23.68,
+   "end": 23.84,
+   "p": 1.0
+  },
+  {
+   "word": "Bio",
+   "start": 23.84,
+   "end": 24.0,
+   "p": 1.0
+  },
+  {
+   "word": "e",
+   "start": 24.08,
+   "end": 24.16,
+   "p": 1.0
+  },
+  {
+   "word": "fale",
+   "start": 24.16,
+   "end": 24.48,
+   "p": 1.0
+  },
+  {
+   "word": "agora",
+   "start": 24.48,
+   "end": 24.72,
+   "p": 1.0
+  },
+  {
+   "word": "com",
+   "start": 24.72,
+   "end": 24.8,
+   "p": 1.0
+  },
+  {
+   "word": "um",
+   "start": 24.8,
+   "end": 24.96,
+   "p": 1.0
+  },
+  {
+   "word": "de",
+   "start": 24.96,
+   "end": 25.12,
+   "p": 1.0
+  },
+  {
+   "word": "nossos",
+   "start": 25.12,
+   "end": 25.36,
+   "p": 1.0
+  },
+  {
+   "word": "consultores.",
+   "start": 25.36,
+   "end": 26.0,
+   "p": 1.0
+  }
+ ]
+}

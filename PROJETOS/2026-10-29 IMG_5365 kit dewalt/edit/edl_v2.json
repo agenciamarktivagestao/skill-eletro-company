@@ -1,0 +1,218 @@
+{
+ "source": "../../../01 ENVIAR AQUI/IMG_5365.MOV",
+ "hdr": "auto",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.95,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ],
+   "_nota": "gancho"
+  },
+  {
+   "start": 2.95,
+   "end": 8.4,
+   "zoom": 1.15,
+   "anchor": [
+    540,
+    980
+   ],
+   "_nota": "mostrando o kit"
+  },
+  {
+   "start": 8.4,
+   "end": 10.7,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ]
+  },
+  {
+   "start": 10.8,
+   "end": 13.42,
+   "zoom": 1.25,
+   "anchor": [
+    540,
+    800
+   ],
+   "zoom_ease": 0,
+   "_nota": "corte no respiro: fecha no 'por apenas'"
+  },
+  {
+   "start": 13.6,
+   "end": 17.85,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ],
+   "zoom_ease": 0,
+   "_nota": "corte no respiro"
+  },
+  {
+   "start": 17.85,
+   "end": 24.1,
+   "zoom": 1.25,
+   "anchor": [
+    540,
+    780
+   ],
+   "_nota": "CTA"
+  }
+ ],
+ "hold": 2.6,
+ "zoom_ease": 0.5,
+ "captions": {
+  "style": "ELC",
+  "cy": 1060,
+  "hook_end": 2.95,
+  "hook_top": false,
+  "big": [],
+  "accents": [
+   "ferramentas profissionais",
+   "qualidade dewalt",
+   "oportunidade"
+  ],
+  "strikes": [],
+  "keywords": [],
+  "boxes": [],
+  "fix": {
+   "de vault": "DeWalt",
+   "eleetrocompany": "Eletro Company"
+  },
+  "keep_case": [
+   "Eletro",
+   "Company",
+   "Londrina",
+   "Tiradentes",
+   "Bio",
+   "Natal",
+   "DeWalt"
+  ],
+  "words_file": "transcript.json",
+  "skip": []
+ },
+ "cards": [
+  {
+   "type": "product",
+   "at": 4.24,
+   "dur": 1.4,
+   "name": "Kit DeWalt",
+   "details": "parafusadeira + furadeira",
+   "spec": "2 baterias"
+  },
+  {
+   "type": "broll",
+   "at": 5.7,
+   "dur": 0.92,
+   "file": "/Users/agenciamarktiva/Downloads/Eletro Company/01 ENVIAR AQUI/IMG_5020.MOV",
+   "start": 18.6,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ],
+   "push": 1.04,
+   "_nota": "máquina de pé: 'parafusadeira' (5020 em 18.6s; cortados os trechos de pegar/abaixar)"
+  },
+  {
+   "type": "broll",
+   "at": 6.62,
+   "dur": 0.83,
+   "file": "/Users/agenciamarktiva/Downloads/Eletro Company/01 ENVIAR AQUI/IMG_5020.MOV",
+   "start": 21.4,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ],
+   "push": 1.04,
+   "_nota": "máquina girando: 'furadeira' (5020 em 21.4s; cortados os trechos de pegar/abaixar)"
+  },
+  {
+   "type": "broll",
+   "at": 7.45,
+   "dur": 1.0,
+   "file": "/Users/agenciamarktiva/Downloads/Eletro Company/01 ENVIAR AQUI/IMG_5020.MOV",
+   "start": 4.6,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ],
+   "push": 1.04,
+   "_nota": "as duas baterias (5020 em 4.6s; cortados os trechos de pegar/abaixar)"
+  },
+  {
+   "type": "price",
+   "at": 8.48,
+   "dur": 4.04,
+   "kicker": "kit profissional DeWalt",
+   "old": "R$ 1.399,90",
+   "value": "R$ 998,50"
+  },
+  {
+   "type": "broll",
+   "at": 13.353,
+   "dur": 1.46,
+   "file": "/Users/agenciamarktiva/Downloads/Eletro Company/01 ENVIAR AQUI/IMG_5020.MOV",
+   "start": 22.4,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ],
+   "push": 1.04,
+   "_nota": "máquina de lado: 'Potência, praticidade' (5020 em 22.4s; cortados os trechos de pegar/abaixar)"
+  },
+  {
+   "type": "broll",
+   "at": 14.813,
+   "dur": 1.2,
+   "file": "/Users/agenciamarktiva/Downloads/Eletro Company/01 ENVIAR AQUI/IMG_5020.MOV",
+   "start": 0.0,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ],
+   "push": 1.04,
+   "_nota": "kit montado na maleta: 'qualidade DeWalt' (5020 em 0.0s; cortados os trechos de pegar/abaixar)"
+  },
+  {
+   "type": "broll",
+   "at": 16.013,
+   "dur": 1.55,
+   "file": "/Users/agenciamarktiva/Downloads/Eletro Company/01 ENVIAR AQUI/IMG_5020.MOV",
+   "start": 26.6,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ],
+   "push": 1.04,
+   "_nota": "encaixando a bateria: 'para facilitar o seu trabalho' (5020 em 26.6s; cortados os trechos de pegar/abaixar)"
+  },
+  {
+   "type": "label",
+   "at": 19.173,
+   "dur": 1.8,
+   "text": "Poucas unidades"
+  },
+  {
+   "type": "end"
+  }
+ ],
+ "music": {
+  "style": "lofi",
+  "end_boost_db": 10,
+  "seed": 6
+ },
+ "sfx": "cards",
+ "logo": false,
+ "mute_source": false
+}

@@ -1,0 +1,113 @@
+{
+ "source": "../../../01 ENVIAR AQUI/IMG_5361.MOV",
+ "hdr": "auto",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.6,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ],
+   "_nota": "gancho: os dois no plano da loja",
+   "person": false
+  },
+  {
+   "start": 3.6,
+   "end": 10.3,
+   "zoom": 1.1,
+   "anchor": [
+    540,
+    860
+   ],
+   "_nota": "padrão de energia (zoom até 1,1 para não cortar ninguém)",
+   "person": false
+  },
+  {
+   "start": 10.4,
+   "end": 17.85,
+   "zoom": 1.0,
+   "anchor": [
+    540,
+    960
+   ],
+   "zoom_ease": 0,
+   "_nota": "corte no respiro: parceria",
+   "person": false
+  },
+  {
+   "start": 17.85,
+   "end": 25.15,
+   "zoom": 1.15,
+   "anchor": [
+    540,
+    840
+   ],
+   "_nota": "CTA",
+   "person": false
+  }
+ ],
+ "hold": 2.6,
+ "zoom_ease": 0.5,
+ "captions": {
+  "style": "ELC",
+  "cy": 1040,
+  "hook_end": 3.6,
+  "hook_top": false,
+  "big": [
+   "detalhes"
+  ],
+  "accents": [
+   "a energia que chega",
+   "no padrão de energia",
+   "casal eletricista"
+  ],
+  "strikes": [],
+  "keywords": [],
+  "boxes": [],
+  "fix": {
+   "eleetro": "Eletro"
+  },
+  "keep_case": [
+   "Eletro",
+   "Company",
+   "Londrina",
+   "Tiradentes",
+   "Bio",
+   "Natal",
+   "Casal",
+   "Eletricista"
+  ],
+  "words_file": "transcript.json",
+  "skip": []
+ },
+ "cards": [
+  {
+   "type": "flash",
+   "at": 3.84,
+   "dur": 0.45,
+   "sfx": "switch",
+   "_nota": "luz acendendo no 'Começa aqui'"
+  },
+  {
+   "type": "product",
+   "at": 11.26,
+   "dur": 3.3,
+   "name": "Casal Eletricista",
+   "details": "parceria Eletro Company"
+  },
+  {
+   "type": "end"
+  }
+ ],
+ "music": {
+  "style": "lofi",
+  "end_boost_db": 10,
+  "seed": 2
+ },
+ "sfx": "cards",
+ "logo": false,
+ "mute_source": false,
+ "_person": "duas pessoas: o rastreio alternava entre os rostos e a legenda pulava; legenda fixa no peito (cy 1040), abaixo dos dois queixos"
+}

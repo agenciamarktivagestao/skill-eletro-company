@@ -1,0 +1,12 @@
+[
+ {
+  "t": 0.1,
+  "kind": "impact",
+  "why": "Atenção"
+ },
+ {
+  "t": 23.067,
+  "kind": "click",
+  "why": "clique"
+ }
+]
